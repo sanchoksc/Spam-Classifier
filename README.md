@@ -1,2 +1,2 @@
 # Spam-Classifier
-Artificial Intelligence Project
+Artificial Intelligence Project using Bayesian Model
